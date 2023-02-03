@@ -1,0 +1,5 @@
+#:/bin/bash
+
+dest=~/Documents/github/SEM6/import_fac/
+
+scp -r p2209196@linuxetu.univ-lyon1.fr:HOMELYON1/SEM6 $dest 
